@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing crckt
 - 🌱 I’m currently learning azure devops
 - 💞️ I’m looking to collaborate on task
-- 📫 How to reach me instagam(fab-faraz)
+- 📫 How to reach me instagam (fab-faraz)
 
 <!---
 faraz258/faraz258 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
